@@ -1,92 +1,75 @@
 # 🚑 Vita Rescue
 
-Vita Rescue is a smart emergency response mobile application built with **Flutter** to reduce delays in emergency situations. The app helps users quickly request help through an SOS system and intelligently assigns the nearest available response unit.
+Vita Rescue is a smart emergency response mobile application built with **Flutter** to reduce delays during emergencies. The app enables users to request help instantly through an SOS system and intelligently assigns the nearest available response unit.
 
 ---
 
 ## 📌 Problem Statement
 
-In many emergencies, ambulances may be delayed or unavailable. Valuable time is often lost while searching for help.
+During emergencies, ambulances may be delayed or unavailable. Valuable time can be lost while waiting for assistance.
 
-**Vita Rescue solves this problem** by using an adaptive dispatch system that can assign alternate emergency responders when ambulances are unavailable.
+**Vita Rescue** addresses this challenge with an adaptive dispatch model that assigns the fastest available responder.
 
 ---
 
-## 💡 Key Features
+## ✨ Key Features
 
 ### 🚨 SOS Emergency Trigger
-- Press and hold SOS button to request help instantly.
+- Press and hold SOS button to request immediate assistance.
 
-### 🧠 Smart Dispatch Logic
-Priority based response assignment:
+### 🧠 Smart Dispatch System
+Response priority:
 
 1. 🚑 Ambulance  
 2. 🚓 Government / Police Vehicle  
-3. 🙋 Verified Volunteer Responder
+3. 🙋 Verified Volunteer Responder  
 
 ### 📍 Live Tracking
-- Track incoming rescue unit
-- ETA countdown
-- Route movement simulation
+- Incoming unit tracking  
+- ETA countdown  
+- Route movement interface  
 
 ### 📞 Emergency Contact Support
-- Quick emergency contact call option
-- Notification flow during rescue request
+- Quick contact call option  
+- Emergency contact notification flow  
 
-### 📜 History Logs
-- View previous emergency requests
-- Completed / Cancelled records
+### 📜 Request History
+- Previous emergency requests  
+- Completed / Cancelled status logs  
 
 ### 👤 Profile & Settings
-- User profile
-- Contact details
-- Blood group
-- Address
-- Permissions
+- User profile  
+- Emergency contact details  
+- Blood group  
+- Saved address  
+- Permissions overview  
+
+---
+
+## 📱 App Screens
+
+- Home Screen  
+- Smart Booking Flow  
+- Live Tracking Screen  
+- History Screen  
+- Profile & Settings Screen  
 
 ---
 
 ## 🛠 Tech Stack
 
-- Flutter
-- Dart
-- Android Studio
+- Flutter  
+- Dart  
+- Android Studio  
 
 ---
 
-## 📱 Screens Included
+## 📥 Download APK
 
-- Home Screen
-- Smart Booking Flow
-- Live Tracking Screen
-- History Screen
-- Profile & Settings Screen
+Download the latest Android APK from the **Releases** section of this repository.
 
 ---
 
 ## 🎯 Project Goal
 
-To build a fast, reliable, and scalable emergency response platform that can save lives by minimizing response delays.
-
----
-
-## 🚀 Future Scope
-
-- Real-time GPS integration
-- Backend server connection
-- Verified responder network
-- AI route optimization
-- Voice SOS activation
-- Real notifications
-
----
-
-## 👨‍💻 Developed By
-
-Ayush Patnayak
-
----
-
-## ⭐ GitHub Repository
-
-If you like this project, star the repository and support the idea.
+To create a fast, simple, and reliable emergency response platform that minimizes rescue delays and improves access to urgent help.
